@@ -42,9 +42,8 @@ See every minted punk, its traits and its story on the **[website](https://qpunk
 
 ## The collection
 
-| | |
-|---|---|
 | **Supply** | 200 Qpunks |
+|---|---|
 | **Chain** | Qubic |
 | **Marketplace** | [QubicBay · collection 20](https://qubicbay.io/collections/20) |
 | **Mint price** | 25.000.000 QU |
@@ -52,6 +51,17 @@ See every minted punk, its traits and its story on the **[website](https://qpunk
 ## Qpunks Bot
 
 Qpunks holders get the **Qpunks Bot** in our [Discord](https://discord.gg/HshX3Ns5CF): private wallet and Tx lookups, the live QubicBay market feed with 🔒 **Wallet details** for holders, price panels and alerts.
+
+---
+
+## Security
+
+- **Official links are only the ones on this page** and on [qpunks.github.io/qpunks](https://qpunks.github.io/qpunks).
+- **Qpunks will never DM you first**, and never asks for your seed, private key or a "verification" payment.
+- Mint and trade **only on [QubicBay](https://qubicbay.io/collections/20)**. Any other "Qpunks mint" site is fake.
+- Anyone in Discord with *founder*, *admin*, *support* or a staff name in their name who is not staff is an impersonator. Report them in Discord.
+
+See [SECURITY.md](SECURITY.md).
 
 ---
 
