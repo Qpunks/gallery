@@ -55,4 +55,14 @@ Qpunks holders get the **Qpunks Bot** in our [Discord](https://discord.gg/HshX3N
 
 ---
 
+## Copyright & license
+
+**© 2026 Qpunks. All rights reserved.** The Qpunks artwork, name and badge are original works; copyright stays with Qpunks.
+
+Each Qpunk NFT holder receives a non-exclusive, worldwide, perpetual license to use, reproduce, display and distribute that Qpunk, as set on QubicBay.
+
+No other license is granted. Any other use of the images in this repository, including copying, redistribution, commercial use, **text and data mining, scraping, or training AI / machine-learning models**, requires written permission. See [LICENSE](LICENSE).
+
+---
+
 <p align="center"><sub>© 2026 Qpunks · qpunks.github.io/qpunks · All rights reserved</sub></p>
