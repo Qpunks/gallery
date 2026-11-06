@@ -19,24 +19,7 @@
 
 ---
 
-## Gallery
-
-<table>
-  <tr>
-    <td align="center"><img src="images/qpunk-001.png" width="180"><br><b>#1</b></td>
-    <td align="center"><img src="images/qpunk-067.png" width="180"><br><b>#67</b></td>
-    <td align="center"><img src="images/qpunk-062.png" width="180"><br><b>#62</b></td>
-    <td align="center"><img src="images/qpunk-146.png" width="180"><br><b>#146</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="images/qpunk-007.png" width="180"><br><b>#7</b></td>
-    <td align="center"><img src="images/qpunk-187.png" width="180"><br><b>#187</b></td>
-    <td align="center"><img src="images/qpunk-105.png" width="180"><br><b>#105</b></td>
-    <td align="center"><img src="images/qpunk-142.png" width="180"><br><b>#142</b></td>
-  </tr>
-</table>
-
-See every minted punk, its traits and its story on the **[website](https://qpunks.github.io/qpunks)**.
+Scroll every minted punk, its traits and its story on the **[website](https://qpunks.github.io/qpunks)**.
 
 ---
 
