@@ -10,6 +10,6 @@
 
 ## Reporting
 
-Seen a fake site, fake account or scam using the Qpunks name? Report it to us on X: https://x.com/QpunksNFT, or in our Discord: https://discord.gg/HshX3Ns5CF.
+Seen a fake site, fake account or scam using the Qpunks name? Report it to us on X: https://x.com/QpunksNFT, or in our Discord: https://discord.gg/TssPemJ3RQ.
 
 © 2026 Qpunks. All rights reserved.

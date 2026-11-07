@@ -14,12 +14,29 @@
   <a href="https://qubicbay.io/collections/20">🛒 QubicBay collection</a> ·
   <a href="https://qubicbay.io/drops">✨ Mint a Qpunk</a> ·
   <a href="https://x.com/QpunksNFT">𝕏 @QpunksNFT</a> ·
-  <a href="https://discord.gg/HshX3Ns5CF">💬 Discord</a>
+  <a href="https://discord.gg/TssPemJ3RQ">💬 Discord</a>
 </p>
 
 ---
 
-Scroll every minted punk, its traits and its story on the **[website](https://qpunks.github.io/qpunks)**.
+## Gallery
+
+<table>
+  <tr>
+    <td align="center"><img src="images/qpunk-001.png" width="180"><br><b>#1</b></td>
+    <td align="center"><img src="images/qpunk-067.png" width="180"><br><b>#67</b></td>
+    <td align="center"><img src="images/qpunk-062.png" width="180"><br><b>#62</b></td>
+    <td align="center"><img src="images/qpunk-146.png" width="180"><br><b>#146</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="images/qpunk-007.png" width="180"><br><b>#7</b></td>
+    <td align="center"><img src="images/qpunk-187.png" width="180"><br><b>#187</b></td>
+    <td align="center"><img src="images/qpunk-105.png" width="180"><br><b>#105</b></td>
+    <td align="center"><img src="images/qpunk-142.png" width="180"><br><b>#142</b></td>
+  </tr>
+</table>
+
+See every minted punk, its traits and its story on the **[website](https://qpunks.github.io/qpunks)**.
 
 ---
 
@@ -33,7 +50,7 @@ Scroll every minted punk, its traits and its story on the **[website](https://qp
 
 ## Qpunks Bot
 
-Qpunks holders get the **Qpunks Bot** in our [Discord](https://discord.gg/HshX3Ns5CF): private wallet and Tx lookups, the live QubicBay market feed with 🔒 **Wallet details** for holders, price panels and alerts.
+Qpunks holders get the **Qpunks Bot** in our [Discord](https://discord.gg/TssPemJ3RQ): private wallet and Tx lookups, the live QubicBay market feed with 🔒 **Wallet details** for holders, price panels and alerts.
 
 ---
 
